@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EmAssignWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmDeleteWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmInsertWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EmUpdateWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoBranchWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoClientWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoJoinWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoProfitWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoSupplierWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InfoWorkWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="EmAssignWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmDeleteWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmInsertWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EmUpdateWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoBranchWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoClientWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoJoinWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoProfitWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoSupplierWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InfoWorkWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
